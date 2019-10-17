@@ -9,7 +9,7 @@
 
 ```js
   // Setting localStorage
-  localStorage.setItem('key','va;ue');
+  localStorage.setItem('key','value');
 
   localStorage.getItem('key');
   
@@ -27,7 +27,7 @@
 
   ```js
   // Setting sessionStorage
-  sessionStorage.setItem('key','va;ue');
+  sessionStorage.setItem('key','value');
 
   sessionStorage.getItem('key');
   
@@ -46,4 +46,4 @@
 
 
 
-[Transitions](# https://thoughtbot.com/blog/transitions-and-transforms)
+[@Transitions](https://thoughtbot.com/blog/transitions-and-transforms)
